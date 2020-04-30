@@ -1,0 +1,3 @@
+rootProject.name='GifSDK'
+include ':app'
+include ':gifsdk'
